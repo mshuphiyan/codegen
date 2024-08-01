@@ -1,0 +1,15 @@
+User:
+  name: Name
+  age: Integer
+
+Name:
+  firstName: String
+  lastName: String
+
+UserRepository:
+
+UserApplication:
+
+UserController:
+
+UserService:
